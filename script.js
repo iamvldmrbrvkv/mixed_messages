@@ -114,7 +114,7 @@ let jimiHedrix_ASCII = `⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⡀⠄�
 const messages = {
     names: ['Jimi Hendrix', 'Kurt Cobein', 'Blondie', 'Dua Lipa', 'Madonna', 'Vladimir Borovikov', 'Bjork', 'Bob Dylan', 'David Bowie', 'Halsey', 'Iggy Pop', 'Lana Del Ray', 'Mick Jagger'],
     intruments: ['drums', 'acoustic guitar', 'bass guitar',' electro guitar', 'banjo', 'piano', 'xylophone', 'maracas', 'saxophone', 'cello', 'lyre', 'organ', 'ukulele', 'trombone'],
-    musicGenres: ['pop', 'shoehaze', 'ballad', 'drimpop', 'death metall', 'latino', 'blues', 'country', 'ambient', 'disco', 'progressive house', 'progressive trance', ''],
+    musicGenres: ['pop', 'shoehaze', 'ballad', 'drimpop', 'death metall', 'latino', 'blues', 'country', 'ambient', 'disco', 'progressive house', 'progressive trance'],
     bands: ['Sonic Youth', 'Pink Floyd', 'Metallica', 'Led Zeppelin', 'The Prodigy', 'The Smashing Pumpkins', 'Coldplay', 'The Cure', 'Joy Divison', 'New Order', 'Oasis', 'Pixies', 'The Verve', 'The Stooges', 'The Rolling Stones'],
     ASCII: [duaLipa_ASCII, curtCobein_ASCII, davidBowie_ASCII, jimiHedrix_ASCII],
 }
