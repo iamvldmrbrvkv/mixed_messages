@@ -13,3 +13,6 @@ Prerequisites:
 + JavaScript
 + Git and GitHub
 + Command line
+
+## Like A Star
+If you want to feel like a star, this app will choose a new name, musical instrument, music genre and musical band for you. Enjoy!
