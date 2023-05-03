@@ -87,7 +87,7 @@ let davidBowie_ASCII = `⠄⠄⠄⠄⠄⠄⠄⣀⠄⣤⣀⣠⣴⣾⣶⣶⣤⣤�
 ⠄⠄⠄⠈⠉⠉⠁⠄⠄⠑⢄⠄⠄⠄⠄⠄⠄⠄⢀⠎⠄⠄⠄⣿⠟⠁
 ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠑⠢⠤⠤⠤⠔⠒⠁⠄⠄⠄⠄⠈`;
 
-let jimiHedrix_ASCII = `⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⡀⠄⢄⣀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+let jimiHendrix_ASCII = `⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⡀⠄⢄⣀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
 ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣴⣿⣥⣠⣤⣾⣗⠄⢤⠄⢀⠄⠄⠄⠄⠄
 ⠄⠄⠄⠄⠄⠄⠄⠔⢂⡎⣠⡀⢠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⡀⢀⠄
 ⠄⠄⠄⠄⠄⣀⠠⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣾⠄
@@ -116,7 +116,7 @@ const messages = {
     intruments: ['drums', 'acoustic guitar', 'bass guitar', 'electro guitar', 'banjo', 'piano', 'xylophone', 'maracas', 'saxophone', 'cello', 'lyre', 'organ', 'ukulele', 'trombone'],
     musicGenres: ['pop', 'shoegaze', 'ballad', 'dreampop', 'death metal', 'latino', 'blues', 'country', 'ambient', 'disco', 'progressive house', 'progressive trance'],
     bands: ['Sonic Youth', 'Pink Floyd', 'Metallica', 'Led Zeppelin', 'The Prodigy', 'The Smashing Pumpkins', 'Coldplay', 'The Cure', 'Joy Divison', 'New Order', 'Oasis', 'Pixies', 'The Verve', 'The Stooges', 'The Rolling Stones'],
-    ASCII: [duaLipa_ASCII, curtCobein_ASCII, davidBowie_ASCII, jimiHedrix_ASCII],
+    ASCII: [duaLipa_ASCII, curtCobein_ASCII, davidBowie_ASCII, jimiHendrix_ASCII],
 }
 
 const randomMessages = () => {
